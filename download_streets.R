@@ -5,7 +5,7 @@ install_github("jiristipl/strviewr")
 library(strviewr)
 
 #change this string to your Google API key
-key="AIzaSyBvSSwTwuQs2DciFz17jCBgxykjT5APWRw"
+key="key"
 
 
 d=read.csv2("streets.csv", stringsAsFactors = F)
